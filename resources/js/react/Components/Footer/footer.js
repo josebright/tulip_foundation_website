@@ -22,10 +22,7 @@ function footer() {
     <>
       <FirstFounderFooter>
         <div className='text-center p-3 ff'>
-          Built with <FaHeart style={{ color: 'red' }} /> by
-          <a rel='noreferrer' href='https://www.thefirstfounders.com/'>
-            FirstFounders Inc
-          </a>
+          Built with by <a rel='noreferrer' href='https://www.linkedin.com/in/josebright'> JoseBryte </a>
         </div>
       </FirstFounderFooter>
     </>
